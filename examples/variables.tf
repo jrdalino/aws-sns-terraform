@@ -33,5 +33,5 @@ variable "environment" {
 # SNS Topic
 variable "aws_sns_topic_name" {
   type        = string
-  description = "SNS Topic Name."  
+  description = "SNS Topic Name."
 }
